@@ -3,5 +3,5 @@ Materiales para el proyecto PIIISA 2025 "¿Puede la Inteligencia Artificial deci
 
 ## Primera sesión
 
-* [El IAA](https://github.com/aluque/PIIISA25/main/El_IAA.pptx)
+* [El IAA](https://github.com/aluque/PIIISA25/raw/refs/heads/main/El_IAA.pptx)
 * [Introducción a la IA](https://colab.research.google.com/drive/1zXGDayiZ8wtGTHWvOSM_w_-mlPYUsd68) 
